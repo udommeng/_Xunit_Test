@@ -1,0 +1,4 @@
+E:\_Learn_Net_CORE_API\Mvc01\Mvc01\obj\Debug\netcoreapp3.0\Mvc01.csprojAssemblyReference.cache
+E:\_Learn_Net_CORE_API\Mvc01\Mvc01\obj\Debug\netcoreapp3.0\Mvc01.MvcApplicationPartsAssemblyInfo.cache
+E:\_Learn_Net_CORE_API\Mvc01\Mvc01\obj\Debug\netcoreapp3.0\Mvc01.AssemblyInfoInputs.cache
+E:\_Learn_Net_CORE_API\Mvc01\Mvc01\obj\Debug\netcoreapp3.0\Mvc01.AssemblyInfo.cs
